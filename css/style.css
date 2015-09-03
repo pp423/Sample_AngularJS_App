@@ -1,0 +1,13 @@
+/* Put your css in here */
+body {
+  padding-top: 10px;
+}
+
+table, th{
+  text-align : center;
+}
+
+/*.glyphicon{
+  cursor: pointer;
+}*/
+
